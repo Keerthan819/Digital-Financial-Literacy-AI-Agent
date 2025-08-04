@@ -89,17 +89,17 @@ An AI agent trained using IBM Watsonx.ai that delivers reliable, document-based 
 ### 🔹 Setting up..
 ![Setup & preview image](setup.jpg)
 ### 🔹 Agent Instructions...
-![Agent Instructions](agent_instructions.jpg)
+![Agent Instructions](agent_instructions.png)
 ### 🔹 Quick Start Questions...
-![quick_start_questions](quick_start_questions.jpg)
-### 🔹 Tools used & Testing...
-![Tool Used & Testing](tool_testing.jpg)
+![quick_start_questions](start_questions.jpg)
+### 🔹 Testing...
+![Tool Used & Testing](testing.jpg)
 ### 🔹 Deployment & Preview...
 ![Deployment & Testing](deployed.jpg)
 ### 🔹 API References after Deployment...
 ![api _references](links.jpg)
 ### 🔹 Resources List...
-![resourses_list.jpg](resourses_list.jpg)
+![resourses_list.jpg](list.jpg)
 
 ---
 
@@ -142,7 +142,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-🔗 [Connect with me on LinkedIn](www.linkedin.com/in/keerthan-d-8928b4360)
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/keerthan-d-8928b4360/?originalSubdomain=in)
 
 ---
 
